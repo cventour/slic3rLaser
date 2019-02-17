@@ -23,8 +23,8 @@ I have added two extra user configurable options for the slicing. You can find t
 
 LASER_POWER and LAYERS_COUNT
 
-[*** WARNING ****	**** WARNING ****	**** WARNING ****	**** WARNING ****	**** WARNING ***]
-[	DO NOT UNCOMMENT THOSE LINES. THEY HAVE TO BE COMMENTED, BUT THEY WORK, DONT WORRY			]
+*** WARNING ****	
+DO NOT UNCOMMENT THOSE LINES. THEY STILL WORK
 
 LASER_POWER Setting
 -------------------
