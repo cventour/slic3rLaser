@@ -23,8 +23,7 @@ I have added two extra user configurable options for the slicing. You can find t
 
 LASER_POWER and LAYERS_COUNT
 
-*** WARNING ****	
-DO NOT UNCOMMENT THOSE LINES. THEY STILL WORK
+_DO NOT UNCOMMENT THOSE LINES. THEY STILL WORK_
 
 LASER_POWER Setting
 -------------------
@@ -37,3 +36,6 @@ You might need to have to pass the ladser over your design more than one times t
 
 
 I hope you enjoy laser cutting with Slic3r and your Prusa as much as I do :)
+
+_OCTOLAPSE USERS WARNING_
+Disable OCTOLAPSE when Laser cutting more than one layers. Octolapse will not disable the laser during layer changes and you will end up with a nice diagonal burn line on your designs :)
