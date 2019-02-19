@@ -9,7 +9,7 @@ my $skip = 0;
 my $laser_power = 255;
 my $laser_found = 0;
 # Commands to set Laser Off
-my $laser_off = "M107 ; Laser off\n";
+my $laser_off = "M106 S0 ; Laser off\n";
 
 # Change the "end_value" number below to the layer you want to cut.
 # In this example it will only print layer 0 and through 3 (4 layers).
